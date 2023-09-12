@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_add_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_add_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_add_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/widget_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/widget_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/widget_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/material_flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/material_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/material_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/video_player_win/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/window_size/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/build" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/listview_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arcacon_downloader/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
